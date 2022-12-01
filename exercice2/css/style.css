@@ -1,0 +1,27 @@
+dt {
+    color: #721717;
+
+}
+
+dd {
+    background-color: #aa3322;
+    border-style: dashed;
+    border-width: 1px;
+    border-bottom-color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    padding: 7px;
+    border-color: #aa3322;
+}
+
+table, tr, td, th {
+    border: solid 1px; 
+  
+}
